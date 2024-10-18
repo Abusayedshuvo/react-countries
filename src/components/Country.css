@@ -1,0 +1,7 @@
+.country {
+  border: solid 1px skyblue;
+  padding: 15px;
+  margin: 15px;
+  border-radius: 15px;
+  text-align: center;
+}
